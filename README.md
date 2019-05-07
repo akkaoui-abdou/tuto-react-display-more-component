@@ -5,7 +5,7 @@ Demo
 ---
 
 
-![alt text](https://github.com/akkaoui-abdou/tuto-react-state-key-props/blob/master/Demo.png)
+![alt text](https://github.com/akkaoui-abdou/tuto-react-display-more-component/blob/master/Demo.png)
 
 props
 state
