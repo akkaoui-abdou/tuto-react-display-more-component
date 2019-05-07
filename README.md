@@ -1,4 +1,4 @@
-Simple Tutorial in react explain how to dispay more Component ann how to use a function in component
+Simple Tutorial in react explain how to dispay more Component and how to use a function in component
 ===
 
 Demo
